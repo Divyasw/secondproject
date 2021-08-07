@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "category":"T-shirt"
+    },
+    {
+        "id":2,
+        "category":"hair appliance"
+    },
+    {
+        "id":3,
+        "category":"Mobile"
+    },
+    {
+        "id":4,
+        "category":"Laptop"
+    },
+    {
+        "id":5,
+        "category":"electronics"
+    },
+    {
+        "id":6,
+        "category":"appliances"
+    }
+
+]
